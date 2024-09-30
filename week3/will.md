@@ -1,6 +1,6 @@
 # What I learned in week2
 
-### MTV패턴이란? ###
+## MTV패턴이란? ##
 
 - **아키텍쳐 패턴이란?**
 
