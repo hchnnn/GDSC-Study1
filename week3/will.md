@@ -20,7 +20,7 @@
 
 - **장고**
 
-    장고는 Model, Template, View 로 이름 붙여 MTV패턴이라고 부른다
+    장고는 Model, Template, View 로 이름 붙여 MTV패턴이라고 부른다.
 
 ### 장고 프로젝트 구조 ###
 
